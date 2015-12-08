@@ -3,104 +3,104 @@ Portfolio of Android Exercises
 
 A collection of basic Android exercises
 
-Hello World App Demo (https://github.com/DeLaSalleUniversity-Manila/androidhelloworldapp-melvincabatuan)
-Prime Number Game (https://github.com/DeLaSalleUniversity-Manila/primenumbergame-melvincabatuan)
-Activity Lifecycle Introduction (https://github.com/DeLaSalleUniversity-Manila/activitylifecycleintroduction-melvincabatuan)
-Display Webpage (https://github.com/DeLaSalleUniversity-Manila/displaywebpagedemo-melvincabatuan)
-Linking Android Activities (https://github.com/DeLaSalleUniversity-Manila/secondactivityassignment-melvincabatuan)
-WeekDay App using Date Picker Fragment (https://github.com/DeLaSalleUniversity-Manila/weekdayimproved-melvincabatuan)
-Stopwatch App (https://github.com/DeLaSalleUniversity-Manila/stopwatchapp-melvincabatuan)
-Email App - Grid Layout (https://github.com/DeLaSalleUniversity-Manila/emailappgridlayout-melvincabatuan)
-Text-to-Speech App (https://github.com/DeLaSalleUniversity-Manila/text2speechdemo-melvincabatuan)
-MyMusic App - Service (https://github.com/DeLaSalleUniversity-Manila/mymusicapp-melvincabatuan)
-Splash Activity (https://github.com/DeLaSalleUniversity-Manila/splashactivitydemo-melvincabatuan)
-Menu Activity (https://github.com/DeLaSalleUniversity-Manila/menuactivitydemo-melvincabatuan)
-Help Activity (https://github.com/DeLaSalleUniversity-Manila/helpactivitydemo-melvincabatuan)
-Green Target (https://github.com/DeLaSalleUniversity-Manila/greentarget-melvincabatuan)
-Take a Picture (https://github.com/DeLaSalleUniversity-Manila/takeapicture-melvincabatuan)
-Buttons Demo (https://github.com/DeLaSalleUniversity-Manila/buttonsdemo-melvincabatuan)
-Star Rating (https://github.com/DeLaSalleUniversity-Manila/starratingdemo-melvincabatuan)
-Google Map Marker for DLSU (https://github.com/DeLaSalleUniversity-Manila/googlemapsdemo-melvincabatuan)
-Screen Slides (https://github.com/DeLaSalleUniversity-Manila/screenslidesdemo-melvincabatuan)
-ViewPager with Text-to-Speech Demo (https://github.com/DeLaSalleUniversity-Manila/viewpagerwithtexttospeech-melvincabatuan)
-Play Video (https://github.com/DeLaSalleUniversity-Manila/playvideo-melvincabatuan)
-SQLiteDatabase (https://classroom.github.com/assignment-invitations/6325632ed2323494d1b359be5399558f)
-Mini-database with Text file (https://classroom.github.com/assignment-invitations/6984288563af23b78a4d9f6d35be95d1)
-Settings Activity (https://github.com/DeLaSalleUniversity-Manila/settingsactivity-melvincabatuan)
-WorkoutFragmentDemo (https://github.com/DeLaSalleUniversity-Manila/workoutfragmentdemo-melvincabatuan)
-Grocery App (https://classroom.github.com/assignment-invitations/dd320497ba09faadd245acf6614f03af)
-Breast Cancer Awareness App (https://classroom.github.com/assignment-invitations/6b5bd9a716af916bf660f5b95318f678)
-OpenCV 3.0 Camera Preview Example (https://github.com/DeLaSalleUniversity-Manila/opencvcamerapreviewsample-melvincabatuan)
-OpenCV 3.0 15-Tile Camera Puzzle (https://github.com/DeLaSalleUniversity-Manila/opencvtilepuzzledemo-melvincabatuan)
-Image Local Binary Pattern (https://github.com/DeLaSalleUniversity-Manila/imagelocalbinarypattern-melvincabatuan)
-OpenCV 3.0 Mixed-Signal Processing (https://github.com/DeLaSalleUniversity-Manila/opencvmixedsignalprocessing-melvincabatuan)
-OpenCV 3.0 Face Detection Sample (https://github.com/DeLaSalleUniversity-Manila/opencvfacedetection-melvincabatuan)
-OpenCV 3.0 Image Manipulations (https://github.com/DeLaSalleUniversity-Manila/opencvimagemanipulations-melvincabatuan)
-Get Current Location and Place a Marker (https://github.com/DeLaSalleUniversity-Manila/getcurrentlocation-melvincabatuan)
-Get Neighboring Hospitals (https://github.com/DeLaSalleUniversity-Manila/getneighboringhospitals-melvincabatuan)
-OpenCV 3.0 Color Blob Detection Sample (https://github.com/DeLaSalleUniversity-Manila/colorblobdetection-melvincabatuan)
-Android Native Camera Access with Native OpenCV Processing through JNI (https://github.com/DeLaSalleUniversity-Manila/androidnativecameraaccess-melvincabatuan)
-Android Camera Bitmap Access through JNI (https://github.com/DeLaSalleUniversity-Manila/androidcamerabitmapaccess-melvincabatuan)
-Cat Face Detection (https://github.com/DeLaSalleUniversity-Manila/catfacedetection-melvincabatuan)
-QR and Bar Code Reader (https://github.com/DeLaSalleUniversity-Manila/barcodereader-melvincabatuan)
-OpenCV 3.0 Camera Control (https://github.com/DeLaSalleUniversity-Manila/opencv3-cameracontrol-melvincabatuan)
-OpenCV 3.0 Image Manipulations with Action Bar (using AppCompatActivity) (https://github.com/DeLaSalleUniversity-Manila/addingactionbar-melvincabatuan)
-FAST Keypoints (https://github.com/DeLaSalleUniversity-Manila/fastkeypoints-melvincabatuan)
-AKAZE Keypoints (https://github.com/DeLaSalleUniversity-Manila/akazefeatures-melvincabatuan)
-Colored Gray (https://github.com/DeLaSalleUniversity-Manila/coloredgray-melvincabatuan)
-Twin Camera Effect (https://github.com/DeLaSalleUniversity-Manila/twincameraeffect-melvincabatuan)
-Range Seekbar Demo (https://github.com/DeLaSalleUniversity-Manila/rangebardemo-melvincabatuan)
-Frame Difference (Motion Detect) (https://github.com/DeLaSalleUniversity-Manila/framedifferencesample-melvincabatuan)
-Pedestrian Detection (https://github.com/DeLaSalleUniversity-Manila/pedestriandetection-melvincabatuan)
-Voronoi Effects (https://github.com/DeLaSalleUniversity-Manila/voronoi-effects-melvincabatuan)
-FANN Library in Android (https://github.com/DeLaSalleUniversity-Manila/fastartificialneuralnetworkinandroid-melvincabatuan)
-Hello JNI Sample (https://github.com/DeLaSalleUniversity-Manila/hellojavanativeinterface-melvincabatuan)
-Sensor (Accelerometer) graph with OpenGL (https://github.com/DeLaSalleUniversity-Manila/accelerometerwithopengl-melvincabatuan)
-Hello GL2 (https://github.com/DeLaSalleUniversity-Manila/hellogl2-melvincabatuan)
-Bitmap Plasma (https://github.com/DeLaSalleUniversity-Manila/bitmap-plasma-melvincabatuan)
-Teapot Render (https://github.com/DeLaSalleUniversity-Manila/teapotrender-melvincabatuan)
-Face Detection in OpenCV with Gradle Experimental Plugin (https://github.com/DeLaSalleUniversity-Manila/facedetectionopencvwithgradleexperimentalplugin-melvincabatuan)
-Canny Edge OpenCV with Android Experimental Gradle Plugin (https://github.com/DeLaSalleUniversity-Manila/cannyedgeopencvwithandroidexperimentalgradle-melvincabatuan)
-Color Reduction (https://github.com/DeLaSalleUniversity-Manila/colorreduction-melvincabatuan)
-ORB Features OpenCV with Android Experimental Gradle Plugin (https://github.com/DeLaSalleUniversity-Manila/orbfeaturesopencvwithexperimentalgradleplugin-melvincabatuan)
-BRISK Features OpenCV with Android Experimental Gradle Plugin (https://github.com/DeLaSalleUniversity-Manila/briskfeaturesopencvwithexperimentalgradleplugin-melvincabatuan)
-AKAZE Features OpenCV with Android Experimental Gradle Plugin (https://github.com/DeLaSalleUniversity-Manila/akazefeaturesopencvwithexperimentalgradleplugin-melvincabatuan)
-OpenCV 3.0 Android Camera Calibration (https://github.com/DeLaSalleUniversity-Manila/opencvcameracalibrationsample-melvincabatuan)
-Filter2D (https://github.com/DeLaSalleUniversity-Manila/filter2d-melvincabatuan)
-ContoursDemo (https://github.com/DeLaSalleUniversity-Manila/contoursdemo-melvincabatuan)
-Circle Detection (https://github.com/DeLaSalleUniversity-Manila/detectcircles-melvincabatuan)
-Playing with Transparency (https://github.com/DeLaSalleUniversity-Manila/playingwithtransparency-melvincabatuan)
-Optical Flow (https://github.com/DeLaSalleUniversity-Manila/opticalflow-melvincabatuan)
-ORB Flow (https://github.com/DeLaSalleUniversity-Manila/orbflow-melvincabatuan)
-FAST Flow (https://github.com/DeLaSalleUniversity-Manila/fastflow-melvincabatuan)
-AKAZE Flow (https://github.com/DeLaSalleUniversity-Manila/akazeflow-melvincabatuan)
-Otsu Thresholding (https://github.com/DeLaSalleUniversity-Manila/otsuthresholding-melvincabatuan)
-Skin Detector (https://github.com/DeLaSalleUniversity-Manila/SkinDetector)
-Image Denoising (https://github.com/DeLaSalleUniversity-Manila/Denoising)
-LBPYUV (https://github.com/DeLaSalleUniversity-Manila/LBPYUV)
-Basic Thresholding (https://github.com/DeLaSalleUniversity-Manila/Thresholding)
-Scharr Gradient (https://github.com/DeLaSalleUniversity-Manila/Scharr)
-YUV Extraction (https://github.com/DeLaSalleUniversity-Manila/YUV_Fast)
-Native Bitmap Access (https://github.com/DeLaSalleUniversity-Manila/NativeBitmap)
-Image Histogram (https://github.com/DeLaSalleUniversity-Manila/Histogram)
-Adaptive Thresholding (https://github.com/DeLaSalleUniversity-Manila/adaptivethreshold-melvincabatuan)
-DISMATH Refresher App (https://github.com/DeLaSalleUniversity-Manila/Dismathoid2014_old )(https://play.google.com/store/apps/details?id=com.cabatuan.dismathoid2014)
-Full Body Detection (https://github.com/DeLaSalleUniversity-Manila/FullBodyDetection)
-Histogram of Gradients (HOG) Features (https://github.com/DeLaSalleUniversity-Manila/HOGFeatures)
-Consensus-based Matching and Tracking in Android (CMT Tracker) (https://github.com/DeLaSalleUniversity-Manila/consensusbasedmatchingandtracking_cmt_tracker-melvincabatuan)
-Tesseract OCR Demo (https://classroom.github.com/assignment-invitations/6e84fd61da0753e0a31559f3e943f0b5 )(c/o E. Lu and G. Limqueco)
-CMT Tracker with AKAZE Features (https://github.com/DeLaSalleUniversity-Manila/cmt-akaze-melvincabatuan)
-CMT Tracker with ORB Features (https://github.com/DeLaSalleUniversity-Manila/cmt-orb-melvincabatuan)
-San Angeles (https://github.com/DeLaSalleUniversity-Manila/sanangeles-melvincabatuan)
-OpenGL ES 3.0 Demo (https://github.com/DeLaSalleUniversity-Manila/opengles3-melvincabatuan)
-2048 Game (https://github.com/DeLaSalleUniversity-Manila/2048-melvincabatuan)
-Green Wall Game (https://github.com/DeLaSalleUniversity-Manila/greenwall-melvincabatuan)
-Octodroid (https://github.com/DeLaSalleUniversity-Manila/gh4a)
-Flappy Bird (Clone) (https://github.com/DeLaSalleUniversity-Manila/FlappyDemo)
-9GAG (Unofficial App) (https://github.com/DeLaSalleUniversity-Manila/9GAG)
-MP Android Chart Demo (https://github.com/DeLaSalleUniversity-Manila/MPAndroidChart)
-Puzzle Collection (https://github.com/DeLaSalleUniversity-Manila/sgtpuzzles)
-Super Jumper (https://github.com/DeLaSalleUniversity-Manila/libgdx-demo-superjumper)
-Super Mario (Android Clone) (https://github.com/DeLaSalleUniversity-Manila/mario-game)
-Google's Santa Tracker (https://github.com/DeLaSalleUniversity-Manila/santa-tracker-android)
-Forkhub (https://github.com/DeLaSalleUniversity-Manila/ForkHub)
+Hello World App Demo 
+Prime Number Game
+Activity Lifecycle Introduction 
+Display Webpage 
+Linking Android Activities
+WeekDay App using Date Picker Fragment 
+Stopwatch App 
+Email App - Grid Layout 
+Text-to-Speech App 
+MyMusic App - Service 
+Splash Activity
+Menu Activity 
+Help Activity 
+Green Target 
+Take a Picture
+Buttons Demo 
+Star Rating 
+Google Map Marker for DLSU
+Screen Slides 
+ViewPager with Text-to-Speech Demo 
+Play Video 
+SQLiteDatabase 
+Mini-database with Text file
+Settings Activity 
+WorkoutFragmentDemo 
+Grocery App 
+Breast Cancer Awareness App 
+OpenCV 3.0 Camera Preview Example 
+OpenCV 3.0 15-Tile Camera Puzzle 
+Image Local Binary Pattern 
+OpenCV 3.0 Mixed-Signal Processing
+OpenCV 3.0 Face Detection Sample 
+OpenCV 3.0 Image Manipulations 
+Get Current Location and Place a Marker 
+Get Neighboring Hospitals 
+OpenCV 3.0 Color Blob Detection Sample 
+Android Native Camera Access with Native OpenCV Processing through JNI 
+Android Camera Bitmap Access through JNI 
+Cat Face Detection 
+QR and Bar Code Reader 
+OpenCV 3.0 Camera Control 
+OpenCV 3.0 Image Manipulations with Action Bar (using AppCompatActivity) 
+FAST Keypoints 
+AKAZE Keypoints 
+Colored Gray
+Twin Camera Effect 
+Range Seekbar Demo 
+Frame Difference (Motion Detect) 
+Pedestrian Detection 
+Voronoi Effects 
+FANN Library in Android 
+Hello JNI Sample 
+Sensor (Accelerometer) graph with OpenGL 
+Hello GL2 
+Bitmap Plasma 
+Teapot Render 
+Face Detection in OpenCV with Gradle Experimental Plugin 
+Canny Edge OpenCV with Android Experimental Gradle Plugin 
+Color Reduction 
+ORB Features OpenCV with Android Experimental Gradle Plugin 
+BRISK Features OpenCV with Android Experimental Gradle Plugin 
+AKAZE Features OpenCV with Android Experimental Gradle Plugin 
+OpenCV 3.0 Android Camera Calibration 
+Filter2D 
+ContoursDemo 
+Circle Detection 
+Playing with Transparency 
+Optical Flow
+ORB Flow 
+FAST Flow 
+AKAZE Flow 
+Otsu Thresholding
+Skin Detector 
+Image Denoising 
+LBPYUV 
+Basic Thresholding 
+Scharr Gradient 
+YUV Extraction 
+Native Bitmap Access 
+Image Histogram 
+Adaptive Thresholding 
+DISMATH Refresher App 
+Full Body Detection
+Histogram of Gradients (HOG) Features 
+Consensus-based Matching and Tracking in Android  
+Tesseract OCR Demo 
+CMT Tracker with AKAZE Features 
+CMT Tracker with ORB Features 
+San Angeles 
+OpenGL ES 3.0 Demo
+2048 Game 
+Green Wall Game 
+Octodroid 
+Flappy Bird (Clone) 
+9GAG (Unofficial App) 
+MP Android Chart Demo 
+Puzzle Collection 
+Super Jumper 
+Super Mario (Android Clone) 
+Google's Santa Tracker 
+Forkhub 
