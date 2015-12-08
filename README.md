@@ -37,6 +37,7 @@ A collection of basic Android exercises
     https://github.com/DeLaSalleUniversity-Manila/mymusicapp-KevinCepria
 
 12. Splash Activity
+    https://github.com/DeLaSalleUniversity-Manila/splashactivitydemo-KevinCepria/tree/master
 
 13. Menu Activity 
     https://github.com/DeLaSalleUniversity-Manila/menuactivitydemo-KevinCepria
