@@ -39,6 +39,7 @@ A collection of basic Android exercises
 12. Splash Activity
 
 13. Menu Activity 
+    https://github.com/DeLaSalleUniversity-Manila/menuactivitydemo-KevinCepria
 
 14. Help Activity 
     https://github.com/DeLaSalleUniversity-Manila/helpactivitydemo-KevinCepria
@@ -71,9 +72,10 @@ A collection of basic Android exercises
     https://github.com/DeLaSalleUniversity-Manila/sqlitedatabaseexercise-KevinCepria
 
 24. Mini-database with Text file
+    https://github.com/DeLaSalleUniversity-Manila/minidatabasewithtextfile-KevinCepria
 
 25. Settings Activity 
-
+    https://github.com/DeLaSalleUniversity-Manila/settingsactivity-KevinCepria/tree/master
 26. WorkoutFragmentDemo 
     https://github.com/DeLaSalleUniversity-Manila/workoutfragmentdemo-KevinCepria
 
