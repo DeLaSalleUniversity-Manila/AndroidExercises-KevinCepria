@@ -129,15 +129,16 @@ A collection of basic Android exercises
 
 63. AKAZE Features OpenCV with Android Experimental Gradle Plugin
 
-64. OpenCV 3.0 Android Camera Calibration 
+64. OpenCV 3.0 Android Camera Calibration
 
-65.Filter2D
+65. Filter2D
 
-66. ContoursDemo 
+66. ContoursDemo
 
-67. Circle Detection 
+67. CircleDetection
 
 68. Playing with Transparency
+
 
 69. Optical Flow
 
