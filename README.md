@@ -4,98 +4,140 @@ Portfolio of Android Exercises
 A collection of basic Android exercises
 
 1. Hello World App Demo 
+   https://github.com/DeLaSalleUniversity-Manila/androidhelloworldapp-KevinCepria
 
 2. CourseAdviser
+   https://github.com/DeLaSalleUniversity-Manila/courseadviserapp-KevinCepria
 
 3. Prime Number Game
+   https://github.com/DeLaSalleUniversity-Manila/primenumbergame-KevinCepria
 
 4. Activity Lifecycle Introduction 
+   https://github.com/DeLaSalleUniversity-Manila/activitylifecycleintroduction-KevinCepria
 
 5. Display Webpage 
+   https://github.com/DeLaSalleUniversity-Manila/displaywebpagedemo-KevinCepria
 
 6. Linking Android Activities
+   https://github.com/DeLaSalleUniversity-Manila/secondactivityassignment-KevinCepria
 
 7. WeekDay App using Date Picker Fragment
+   https://github.com/DeLaSalleUniversity-Manila/weekdayimproved-KevinCepria
 
 8. Stopwatch App 
+   https://github.com/DeLaSalleUniversity-Manila/stopwatchapp-KevinCepria
 
 9. Email App - Grid Layout 
+   https://github.com/DeLaSalleUniversity-Manila/emailappgridlayout-KevinCepria
 
 10. Text-to-Speech App
+    https://github.com/DeLaSalleUniversity-Manila/text2speechdemo-KevinCepria
 
 11. MyMusic App - Service 
+    https://github.com/DeLaSalleUniversity-Manila/mymusicapp-KevinCepria
 
 12. Splash Activity
 
 13. Menu Activity 
 
 14. Help Activity 
+    https://github.com/DeLaSalleUniversity-Manila/helpactivitydemo-KevinCepria
 
 15. Green Target 
+    https://github.com/DeLaSalleUniversity-Manila/greentarget-KevinCepria
 
 16. Take a Picture
+    https://github.com/DeLaSalleUniversity-Manila/takeapicture-KevinCepria
 
 17. Buttons Demo 
+    https://github.com/DeLaSalleUniversity-Manila/buttonsdemo-KevinCepria
 
 18. Star Rating 
+    https://github.com/DeLaSalleUniversity-Manila/starratingdemo-KevinCepria
 
 19. Google Map Marker for DLSU
+    https://github.com/DeLaSalleUniversity-Manila/googlemapsdemo-KevinCepria
 
 20. Screen Slides 
+    https://github.com/DeLaSalleUniversity-Manila/screenslidesdemo-KevinCepria
 
 21. ViewPager with Text-to-Speech Demo 
+    https://github.com/DeLaSalleUniversity-Manila/viewpagerwithtexttospeech-KevinCepria
 
 22. Play Video 
+    https://github.com/DeLaSalleUniversity-Manila/playvideo-KevinCepria
 
 23. SQLiteDatabase 
+    https://github.com/DeLaSalleUniversity-Manila/sqlitedatabaseexercise-KevinCepria
 
 24. Mini-database with Text file
 
 25. Settings Activity 
 
 26. WorkoutFragmentDemo 
+    https://github.com/DeLaSalleUniversity-Manila/workoutfragmentdemo-KevinCepria
 
 27. Grocery App 
+    https://github.com/DeLaSalleUniversity-Manila/groceryapp-KevinCepria
 
 28. Breast Cancer Awareness App 
 
 29. OpenCV 3.0 Camera Preview Example 
+    https://github.com/DeLaSalleUniversity-Manila/opencvcamerapreviewsample-KevinCepria
 
 30. OpenCV 3.0 15-Tile Camera Puzzle 
+    https://github.com/DeLaSalleUniversity-Manila/opencvtilepuzzledemo-KevinCepria
 
 31. Image Local Binary Pattern 
+    https://github.com/DeLaSalleUniversity-Manila/imagelocalbinarypattern-KevinCepria
 
 32. OpenCV 3.0 Mixed-Signal Processing
+    https://github.com/DeLaSalleUniversity-Manila/opencvmixedsignalprocessing-KevinCepria
 
 33. OpenCV 3.0 Face Detection Sample 
+    https://github.com/DeLaSalleUniversity-Manila/opencvfacedetection-KevinCepria
 
 34. OpenCV 3.0 Image Manipulations 
+    https://github.com/DeLaSalleUniversity-Manila/opencvimagemanipulations-KevinCepria
 
 35. Get Current Location and Place a Marker 
+    https://github.com/DeLaSalleUniversity-Manila/getcurrentlocation-KevinCepria
 
 36. Get Neighboring Hospitals 
+    https://github.com/DeLaSalleUniversity-Manila/getneighboringhospitals-KevinCepria
 
 37. OpenCV 3.0 Color Blob Detection Sample 
+    https://github.com/DeLaSalleUniversity-Manila/colorblobdetection-KevinCepria
 
 38. Android Native Camera Access with Native OpenCV Processing through JNI 
+    https://github.com/DeLaSalleUniversity-Manila/androidnativecameraaccess-KevinCepria
 
 39. Android Camera Bitmap Access through JNI 
+    https://github.com/DeLaSalleUniversity-Manila/androidcamerabitmapaccess-KevinCepria
 
 40. Cat Face Detection 
+    https://github.com/DeLaSalleUniversity-Manila/catfacedetection-KevinCepria
 
 41. QR and Bar Code Reader 
+    https://github.com/DeLaSalleUniversity-Manila/barcodereader-KevinCepria
 
 42. OpenCV 3.0 Camera Control 
+    https://github.com/DeLaSalleUniversity-Manila/opencv3-cameracontrol-KevinCepria
 
 43. OpenCV 3.0 Image Manipulations with Action Bar (using AppCompatActivity) 
+    https://github.com/DeLaSalleUniversity-Manila/addingactionbar-KevinCepria
 
 44. FAST Keypoints 
+    https://github.com/DeLaSalleUniversity-Manila/fastkeypoints-KevinCepria
 
 45. AKAZE Keypoints 
+    https://github.com/DeLaSalleUniversity-Manila/akazefeatures-KevinCepria
 
 46. Colored Gray
+    https://github.com/DeLaSalleUniversity-Manila/coloredgray-KevinCepria
 
 47. Twin Camera Effect 
+     https://github.com/DeLaSalleUniversity-Manila/twincameraeffect-KevinCepria
 
 48. Range Seekbar Demo 
     https://github.com/DeLaSalleUniversity-Manila/rangebardemo-KevinCepria
