@@ -211,6 +211,7 @@ A collection of basic Android exercises
     https://github.com/DeLaSalleUniversity-Manila/fastflow-KevinCepria
 
 72. AKAZE Flow 
+    https://github.com/DeLaSalleUniversity-Manila/AzakeFlow-KevinCepria/tree/master
 
 73. Otsu Thresholding
     https://github.com/DeLaSalleUniversity-Manila/otsuthresholding-KevinCepria
