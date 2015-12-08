@@ -249,6 +249,7 @@ A collection of basic Android exercises
     https://github.com/DeLaSalleUniversity-Manila/DismathRefresherApp-KevinCepria
 
 84. Full Body Detection
+    https://github.com/DeLaSalleUniversity-Manila/fullbodydetection-KevinCepria/tree/master
 
 85. Histogram of Gradients (HOG) Features 
     https://github.com/DeLaSalleUniversity-Manila/hog-KevinCepria
