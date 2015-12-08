@@ -260,15 +260,19 @@ A collection of basic Android exercises
 87. Tesseract OCR Demo 
 
 88. CMT Tracker with AKAZE Features 
-    
+    https://github.com/DeLaSalleUniversity-Manila/cmt-akaze-KevinCepria/tree/master
+
 89. CMT Tracker with ORB Features 
+    https://github.com/DeLaSalleUniversity-Manila/cmt-orb-KevinCepria/tree/master
 
 90. San Angeles 
     https://github.com/DeLaSalleUniversity-Manila/sanangeles-KevinCepria
 
 91. OpenGL ES 3.0 Demo
+    https://github.com/DeLaSalleUniversity-Manila/opengles3-KevinCepria/tree/master
 
 92. 2048 Game 
+    https://github.com/DeLaSalleUniversity-Manila/2048-KevinCepria/tree/master
 
 93. Green Wall Game 
 
