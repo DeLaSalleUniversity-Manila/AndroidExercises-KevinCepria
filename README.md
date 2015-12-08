@@ -76,6 +76,7 @@ A collection of basic Android exercises
 
 25. Settings Activity 
     https://github.com/DeLaSalleUniversity-Manila/settingsactivity-KevinCepria/tree/master
+
 26. WorkoutFragmentDemo 
     https://github.com/DeLaSalleUniversity-Manila/workoutfragmentdemo-KevinCepria
 
@@ -83,6 +84,7 @@ A collection of basic Android exercises
     https://github.com/DeLaSalleUniversity-Manila/groceryapp-KevinCepria
 
 28. Breast Cancer Awareness App 
+    https://github.com/DeLaSalleUniversity-Manila/breastcancerawarenessapp-KevinCepria/tree/master
 
 29. OpenCV 3.0 Camera Preview Example 
     https://github.com/DeLaSalleUniversity-Manila/opencvcamerapreviewsample-KevinCepria
